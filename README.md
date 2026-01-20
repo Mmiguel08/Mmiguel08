@@ -4,34 +4,17 @@
 
 My name is **Miguel**, and I work professionally in the field of **Network and Cybersecurity**, focusing on **secure infrastructure and the protection of corporate environments**. I work with the implementation, monitoring, and defense of networks using **Cisco and FortiGate solutions**.
 
-### ☁️ Cloud Interest & Skills (Azure & AWS)
-I have a strong professional interest in **Cloud Computing and Cloud Security**, with a focus on building, managing, and securing scalable environments in **Microsoft Azure and Amazon Web Services (AWS)**. My cloud journey is centered on understanding how modern infrastructures are designed, deployed, and protected, from identity and networking to monitoring and cost optimization.
+### ☁️ Cloud Interest (Azure & AWS)
 
-Through my studies aligned with **AZ-104 (Microsoft Azure Administrator)** and **AWS Certified Cloud Practitioner**, I have developed skills in:
+I have a professional interest in **Cloud Computing and Cloud Security**, focused on deploying and securing scalable environments in **Microsoft Azure and Amazon Web Services (AWS)**.
 
-- **Cloud Architecture Fundamentals**  
-  Understanding core cloud concepts, shared responsibility model, high availability, scalability, and fault tolerance.
+Aligned with **AZ-104 (Microsoft Azure Administrator)** and **AWS Certified Cloud Practitioner**, I have skills in:
 
-- **Identity & Access Management (IAM)**  
-  Managing users, roles, policies, and role-based access control (RBAC) in Azure and AWS to enforce least-privilege access.
-
-- **Virtual Networking**  
-  Designing and configuring virtual networks, subnets, routing, VPNs, security groups, and firewall rules for secure connectivity.
-
-- **Compute & Storage Services**  
-  Deploying and managing virtual machines, storage accounts, object storage (Blob Storage / S3), and backup solutions.
-
-- **Monitoring & Logging**  
-  Using Azure Monitor, AWS CloudWatch, and logging services to track performance, availability, and security events.
-
-- **Security & Compliance**  
-  Applying cloud security best practices, including encryption, security baselines, resource policies, and governance frameworks.
-
-- **Cost Management & Optimization**  
-  Understanding pricing models, budgeting, and cost-control strategies to optimize cloud resource usage.
-
-- **Automation & Resource Management**  
-  Managing cloud resources using portals, CLI tools, and basic infrastructure-as-code concepts.
+- **Identity & Access Management (IAM / RBAC)**
+- **Virtual Networking (VNets, Subnets, Security Groups, VPNs)**
+- **Compute & Storage Services (VMs, Blob Storage, S3, Backups)**
+- **Monitoring & Logging (Azure Monitor, AWS CloudWatch)**
+- **Security Best Practices & Cost Management**
 
 
 <p align="left">
