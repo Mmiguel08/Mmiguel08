@@ -119,8 +119,6 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 GitHub Stats
-
 <p align="center">
   <img 
     height="180"
