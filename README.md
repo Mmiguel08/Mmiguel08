@@ -14,21 +14,20 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
 
 
 <p align="left">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/YOUR_GITHUB_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/YOUR_GITHUB_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/Mmiguel08?tab=repositories">
+    <img 
+      alt="GitHub Stars"
+      src="https://img.shields.io/github/stars/Mmiguel08?style=for-the-badge&logo=github&color=1f6feb"
+    />
+  </a>
+  <a href="https://github.com/Mmiguel08?tab=followers">
+    <img 
+      alt="GitHub Followers"
+      src="https://img.shields.io/github/followers/Mmiguel08?style=for-the-badge&logo=github&color=1f6feb"
+    />
+  </a>
 </p>
+
 
 ---
 
