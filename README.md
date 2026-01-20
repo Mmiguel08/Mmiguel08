@@ -1,6 +1,6 @@
 # 🛡️ MOISES MIGUEL 
 
-**Network & Cloud Engineer | CISCO | AZURE | FORTIGATE**
+**Network & Cloud Engineer | Cisco | Fortigate | Linux | Bash | Script**
 
 My name is Miguel, and I work in **Network and Cybersecurity**, focused on securing corporate infrastructures using **Cisco and FortiGate** solutions for network implementation, monitoring, and defense. I also work with **Cloud Security and Infrastructure** in **Microsoft Azure**, aligned with **AZ-104**, focusing on deploying and securing scalable cloud environments.
 
