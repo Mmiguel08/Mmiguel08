@@ -1,12 +1,38 @@
-# 🛡️ ENG. MIGUEL  
+# 🛡️ MOISES MIGUEL 
 
 **`Network & Cybersecurity Professional`**
 
-My name is **Miguel**, and I work professionally in the field of **Network and Cybersecurity**, focusing on **secure infrastructure, system hardening, and the protection of corporate environments**. I work with the implementation, monitoring, and defense of networks using **Cisco and FortiGate solutions**, as well as **Linux server administration** and security in **Microsoft Azure** environments.
+My name is **Miguel**, and I work professionally in the field of **Network and Cybersecurity**, focusing on **secure infrastructure and the protection of corporate environments**. I work with the implementation, monitoring, and defense of networks using **Cisco and FortiGate solutions**.
 
-I have a strong interest in security automation, incident response, and the development of tools to support defensive operations (Blue Team), using both low-level and high-level programming languages.
+### ☁️ Cloud Interest & Skills (Azure & AWS)
+I have a strong professional interest in **Cloud Computing and Cloud Security**, with a focus on building, managing, and securing scalable environments in **Microsoft Azure and Amazon Web Services (AWS)**. My cloud journey is centered on understanding how modern infrastructures are designed, deployed, and protected, from identity and networking to monitoring and cost optimization.
 
----
+Through my studies aligned with **AZ-104 (Microsoft Azure Administrator)** and **AWS Certified Cloud Practitioner**, I have developed skills in:
+
+- **Cloud Architecture Fundamentals**  
+  Understanding core cloud concepts, shared responsibility model, high availability, scalability, and fault tolerance.
+
+- **Identity & Access Management (IAM)**  
+  Managing users, roles, policies, and role-based access control (RBAC) in Azure and AWS to enforce least-privilege access.
+
+- **Virtual Networking**  
+  Designing and configuring virtual networks, subnets, routing, VPNs, security groups, and firewall rules for secure connectivity.
+
+- **Compute & Storage Services**  
+  Deploying and managing virtual machines, storage accounts, object storage (Blob Storage / S3), and backup solutions.
+
+- **Monitoring & Logging**  
+  Using Azure Monitor, AWS CloudWatch, and logging services to track performance, availability, and security events.
+
+- **Security & Compliance**  
+  Applying cloud security best practices, including encryption, security baselines, resource policies, and governance frameworks.
+
+- **Cost Management & Optimization**  
+  Understanding pricing models, budgeting, and cost-control strategies to optimize cloud resource usage.
+
+- **Automation & Resource Management**  
+  Managing cloud resources using portals, CLI tools, and basic infrastructure-as-code concepts.
+
 
 <p align="left">
     <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&sort=stargazers">
