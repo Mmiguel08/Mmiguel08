@@ -1,20 +1,16 @@
 # 🛡️ MOISES MIGUEL 
 
-**`Network & Cybersecurity Professional`**
+**Network & Cybersecurity Professional**
 
-My name is **Miguel**, and I work professionally in the field of **Network and Cybersecurity**, focusing on **secure infrastructure and the protection of corporate environments**. I work with the implementation, monitoring, and defense of networks using **Cisco and FortiGate solutions**.
+My name is Miguel, and I work in **Network and Cybersecurity**, focused on securing corporate infrastructures using **Cisco and FortiGate** solutions for network implementation, monitoring, and defense. I also work with **Cloud Security and Infrastructure** in **Microsoft Azure and AWS**, aligned with **AZ-104** and **AWS Cloud Practitioner**, focusing on deploying and securing scalable cloud environments.
 
-### ☁️ Cloud Interest (Azure & AWS)
+**Core Skills:**
+- Identity & Access Management (IAM / RBAC)  
+- Virtual & Network Security (VNets, Subnets, VPNs, Security Groups, Firewalls)  
+- Compute & Storage (VMs, Blob Storage, S3, Backups)  
+- Monitoring & Logging (Azure Monitor, CloudWatch)  
+- Security Best Practices & Cost Control  
 
-I have a professional interest in **Cloud Computing and Cloud Security**, focused on deploying and securing scalable environments in **Microsoft Azure and Amazon Web Services (AWS)**.
-
-Aligned with **AZ-104 (Microsoft Azure Administrator)** and **AWS Certified Cloud Practitioner**, I have skills in:
-
-- **Identity & Access Management (IAM / RBAC)**
-- **Virtual Networking (VNets, Subnets, Security Groups, VPNs)**
-- **Compute & Storage Services (VMs, Blob Storage, S3, Backups)**
-- **Monitoring & Logging (Azure Monitor, AWS CloudWatch)**
-- **Security Best Practices & Cost Management**
 
 
 <p align="left">
