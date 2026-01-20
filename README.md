@@ -40,15 +40,7 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
     title="Cisco" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Fortinet"
-    title="FortiGate" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" 
+    src="https://cdn.simpleicons.org/cisco/1BA0D7" 
 />
 <img 
     align="left" 
@@ -60,35 +52,11 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
 />
 <img 
     align="left" 
-    alt="Azure"
-    title="Microsoft Azure" 
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -100,15 +68,24 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
 />
 <img 
     align="left" 
-    alt="Git"
-    title="Git" 
+    alt="Fortinet"
+    title="Fortinet" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.simpleicons.org/fortinet/EE3124" 
+/>
+<img 
+    align="left" 
+    alt="Azure"
+    title="Microsoft Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
 <br/>
 <br/>
+
 
 ---
 
