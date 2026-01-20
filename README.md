@@ -114,24 +114,35 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Professional Objective
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" 
-  />
+<table>
+<tr>
+<td width="50%" valign="top">
 
+#### 📊 GitHub Stats
+
+<p align="center">
   <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" 
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true" 
   />
 </p>
 
-## 🎯 Professional Objective
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" 
+  />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 Professional Objective
 
 To strengthen the security of **corporate networks and cloud environments**, applying solutions based on **Cisco, FortiGate, Linux, and Microsoft Azure**, as well as developing **tools and automation in C, C++, Python, and Bash** to increase operational efficiency and cybersecurity maturity across organizations.
+
+</td>
+</tr>
+</table>
