@@ -120,20 +120,17 @@ My name is Miguel, and I work in **Network and Cybersecurity**, focused on secur
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=8" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" 
   />
 </p>
-
----
 
 ## 🎯 Professional Objective
 
