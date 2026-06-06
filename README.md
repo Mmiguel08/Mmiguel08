@@ -1,18 +1,7 @@
 # 🛡️ MOISES MIGUEL
-**Cloud Security Engineer | AWS | Azure | IAM | Linux**
+**Cloud Security | AWS | IAM | Linux**
 
-My name is Miguel, and I specialize in **Cloud Security and IAM**, focused on securing cloud environments through identity hardening, least-privilege enforcement, and Linux-based security practices. Currently deepening expertise in **AWS Cloud Security** — with hands-on training in IAM privilege escalation, cloud enumeration, and incident response — working toward the **AWS Certified Security Specialty** certification.
-
----
-
-### 🎯 Current Focus
-
-```
-AWS Cloud Security  ████████████████████  Actively Training
-IAM & Privilege     ███████████████░░░░░  In Progress
-Linux Security      ████████████████████  Active
-Azure Security      ████████████████████  AZ-104 Aligned
-```
+My name is Miguel. I'm focused on **AWS Cloud Security**, with hands-on training in IAM privilege escalation, cloud enumeration, and incident response. Currently working toward the **AWS Certified Security Specialty** certification.
 
 ---
 
@@ -20,33 +9,30 @@ Azure Security      ████████████████████
 
 | Domain | Skills |
 |---|---|
-| **Cloud Security** | AWS Security, Azure Security, IAM PrivEsc, S3 Security, CloudTrail, GuardDuty |
-| **IAM** | RBAC, Least Privilege, IAM Roles & Policies, Access Analyzer, Credentials Reports |
-| **Linux Security** | Hardening, Bash Scripting, Access Control, Monitoring, Automation |
-| **Monitoring & Response** | CloudWatch, CloudTrail, Azure Monitor, Incident Response |
+| **Cloud Security** | AWS Security, IAM PrivEsc, S3 Security, CloudTrail, GuardDuty |
+| **IAM** | Least Privilege, IAM Roles & Policies, Access Analyzer, Credentials Reports |
+| **Linux Security** | Hardening, Bash Scripting, Access Control, Monitoring |
 
 ---
 
-### 🧪 AWS Security Labs & CTFs
+### 🧪 Hands-On Labs & CTFs
 
 - 🔴 **IAM Privilege Escalation** — CreateAccessKey, AttachPolicy, PutRolePolicy, and 10+ vectors
-- 🔴 **Enumeration** — AWS Account/Org ID discovery, IAM/Secrets Manager/S3 enumeration
-- 🔵 **Detection & Response** — VPC Flow Logs, GuardDuty, EventBridge, CloudWatch dashboards
-- 🔵 **Security Automation** — Prowler, Steampipe, IAM Access Analyzer, AWS Config
+- 🔴 **Enumeration** — AWS Account/Org ID, IAM, Secrets Manager, S3
+- 🔵 **Detection & Response** — VPC Flow Logs, GuardDuty, EventBridge, CloudWatch
+- 🔵 **Security Automation** — Prowler, Steampipe, IAM Access Analyzer
 
 ---
 
-### 🏆 Certifications & Roadmap
+### 🏆 Certifications
 
-- ✅ AZ-104 — Microsoft Azure Administrator *(aligned)*
 - 🔄 **AWS Certified Security Specialty** — *In progress*
 
 ---
 
-### 🔐 Languages & Technologies
+### 🔐 Technologies
 
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
-<img align="left" alt="Azure" title="Microsoft Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" title="Bash Script" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -62,12 +48,6 @@ Azure Security      ████████████████████
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
 </p>
-
----
-
-### 🎯 Professional Objective
-
-To grow as a **Cloud Security Engineer** specializing in **IAM hardening, Linux security, and AWS/Azure cloud defense** — enforcing least-privilege access, detecting misconfigurations, and building automation tools to strengthen cloud security posture across modern infrastructures.
 
 ---
 
