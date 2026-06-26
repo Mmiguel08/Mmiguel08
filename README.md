@@ -4,7 +4,7 @@
 
 I'm a Cloud Security Engineer passionate about designing, securing, and automating AWS environments.
 
-My experience combines **cloud security**, **network engineering**, and **Infrastructure as Code**, with hands-on projects focused on secure AWS architectures, IAM, Terraform, monitoring, and threat detection.
+My experience combines **cloud security**, **network engineering**, with hands-on projects focused on secure AWS architectures, IAM, Terraform, monitoring, and threat detection.
 
 Currently expanding my expertise in:
 
@@ -96,8 +96,6 @@ Implemented monitoring and threat detection using:
 ---
 
 ## 📜 Certifications
-
-* AWS Certified Cloud Practitioner
 * AWS Certified Solutions Architect – Associate *(In Progress)*
 * AWS Certified Security – Specialty *(Planned)*
 
