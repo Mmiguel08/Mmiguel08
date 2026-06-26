@@ -1,8 +1,8 @@
 # 🛡️ MOISES MIGUEL
 
-**Cloud Security Engineer | AWS | Terraform | Linux | Infrastructure as Code**
+**Cloud Security Engineer | AWS | Linux | Infrastructure as Code**
 
-I'm a Cloud Security Engineer passionate about designing, securing, and automating AWS environments.
+I'm a Cloud Security passionate about designing, securing, and automating AWS environments.
 
 My experience combines **cloud security**, **network engineering**, with hands-on projects focused on secure AWS architectures, IAM, Terraform, monitoring, and threat detection.
 
@@ -33,65 +33,78 @@ Currently expanding my expertise in:
 
 ## 🚀 Featured Projects
 
-### 🔐 Secure AWS Infrastructure with Terraform
+### ☁️ AWS Cloud-Native E-Commerce Architecture
 
-Provisioned a production-style AWS environment using Terraform including:
+Designed and deployed a production-style cloud-native architecture on AWS using managed services following the AWS Well-Architected Framework.
 
-* Custom VPC
-* Public & Private Subnets
-* Internet Gateway
-* NAT Gateway
-* EC2
-* Security Groups
-* Systems Manager (SSM)
-* IAM Roles
-* Remote State
-* Variables
-* Outputs
-* Modular Infrastructure
+**Highlights**
 
----
-
-### 🛡️ AWS IAM Security Labs
-
-Hands-on security labs covering:
-
-* Least Privilege
-* IAM Roles
-* IAM Policies
-* Permission Boundaries
-* Resource-based Policies
-* Cross-Account Access
-* IAM Access Analyzer
-
----
-
-### ☁️ Cloud Native AWS Architecture
-
-Implemented a cloud-native e-commerce architecture using:
-
-* Route53
 * CloudFront
+* Route 53
 * API Gateway
 * ECS
 * RDS
 * Auto Scaling
 * Load Balancer
-* Monitoring
 * High Availability
+* Monitoring
 
 ---
 
-### 🔍 Security Monitoring
+### 🏗️ Terraform: AWS VPC, EC2 & Systems Manager
 
-Implemented monitoring and threat detection using:
+Provisioned a complete AWS networking environment using reusable Terraform modules.
 
-* GuardDuty
+**Infrastructure**
+
+* Custom VPC
+* Public & Private Subnets
+* Internet Gateway
+* NAT Gateways
+* Route Tables
+* EC2 Instances
+* Security Groups
+* Interface VPC Endpoints
+* AWS Systems Manager (SSM)
+* IAM Roles
+
+**Practices**
+
+* Infrastructure as Code
+* Modular Terraform Design
+* Remote Management without SSH
+* Least Privilege IAM
+* Secure Private Networking
+
+---
+
+### 🔐 AWS Security Labs
+
+Hands-on security implementations covering:
+
+* IAM Least Privilege
+* IAM Roles & Policies
+* Access Analyzer
 * CloudTrail
-* Security Hub
+* GuardDuty
 * AWS Config
-* CloudWatch
-* EventBridge
+* KMS
+* S3 Security
+
+---
+
+### 🛡️ Secure S3 Access Using IAM
+
+Implemented secure access control for Amazon S3 using IAM Roles and custom policies.
+
+**Concepts**
+
+* Least Privilege
+* IAM Roles
+* Custom Policies
+* Bucket Policies
+* Access Control
+
 
 ---
 
