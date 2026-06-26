@@ -1,6 +1,6 @@
 # 🛡️ MOISES MIGUEL
 
-**Cloud Security Engineer | AWS | Linux | Infrastructure as Code**
+**Cloud Security | AWS | Linux | Infrastructure as Code**
 
 I'm a Cloud Security passionate about designing, securing, and automating AWS environments.
 
