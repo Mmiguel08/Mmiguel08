@@ -1,61 +1,142 @@
 # 🛡️ MOISES MIGUEL
-**Cloud Security | AWS | IAM | Linux**
 
-My name is Miguel. I'm focused on **AWS Cloud Security**, with hands-on training in IAM privilege escalation, cloud enumeration, and incident response. Currently working toward the **AWS Certified Security Specialty** certification.
+**Cloud Security Engineer | AWS | Terraform | Linux | Infrastructure as Code**
 
----
+I'm a Cloud Security Engineer passionate about designing, securing, and automating AWS environments.
 
-### 🔐 Core Skills
+My experience combines **cloud security**, **network engineering**, and **Infrastructure as Code**, with hands-on projects focused on secure AWS architectures, IAM, Terraform, monitoring, and threat detection.
 
-| Domain | Skills |
-|---|---|
-| **Cloud Security** | AWS Security, IAM PrivEsc, S3 Security, CloudTrail, GuardDuty |
-| **IAM** | Least Privilege, IAM Roles & Policies, Access Analyzer, Credentials Reports |
-| **Linux Security** | Hardening, Bash Scripting, Access Control, Monitoring |
+Currently expanding my expertise in:
 
----
-
-### 🧪 Hands-On Labs & CTFs
-
-- 🔴 **IAM Privilege Escalation** — CreateAccessKey, AttachPolicy, PutRolePolicy, and 10+ vectors
-- 🔴 **Enumeration** — AWS Account/Org ID, IAM, Secrets Manager, S3
-- 🔵 **Detection & Response** — VPC Flow Logs, GuardDuty, EventBridge, CloudWatch
-- 🔵 **Security Automation** — Prowler, Steampipe, IAM Access Analyzer
+* AWS Security
+* Terraform
+* Cloud Infrastructure
+* Security Automation
+* DevSecOps
 
 ---
 
-### 🏆 Certifications
+## ☁️ Core Skills
 
-- 🔄 **AWS Certified Security Specialty** — *In progress*
-
----
-
-### 🔐 Technologies
-
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" title="Bash Script" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br/><br/>
+| Domain                     | Technologies                                                            |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Cloud Security**         | IAM, GuardDuty, Security Hub, CloudTrail, AWS Config, KMS, S3 Security  |
+| **Infrastructure as Code** | Terraform, AWS Provider, Remote State, Modules                          |
+| **Cloud Services**         | EC2, VPC, ALB, Auto Scaling, Route 53, CloudFront, Systems Manager, RDS |
+| **Networking**             | VPC Design, Routing, Security Groups, NACLs, VPN, BGP, MPLS             |
+| **Linux**                  | Bash, User Management, Permissions, SSH, System Administration          |
+| **Version Control**        | Git & GitHub                                                            |
+| **Monitoring**             | CloudWatch, EventBridge, VPC Flow Logs                                  |
+| **Programming**            | Python (Automation), Bash                                               |
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mmiguel08&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
-</p>
+### 🔐 Secure AWS Infrastructure with Terraform
+
+Provisioned a production-style AWS environment using Terraform including:
+
+* Custom VPC
+* Public & Private Subnets
+* Internet Gateway
+* NAT Gateway
+* EC2
+* Security Groups
+* Systems Manager (SSM)
+* IAM Roles
+* Remote State
+* Variables
+* Outputs
+* Modular Infrastructure
 
 ---
+
+### 🛡️ AWS IAM Security Labs
+
+Hands-on security labs covering:
+
+* Least Privilege
+* IAM Roles
+* IAM Policies
+* Permission Boundaries
+* Resource-based Policies
+* Cross-Account Access
+* IAM Access Analyzer
+
+---
+
+### ☁️ Cloud Native AWS Architecture
+
+Implemented a cloud-native e-commerce architecture using:
+
+* Route53
+* CloudFront
+* API Gateway
+* ECS
+* RDS
+* Auto Scaling
+* Load Balancer
+* Monitoring
+* High Availability
+
+---
+
+### 🔍 Security Monitoring
+
+Implemented monitoring and threat detection using:
+
+* GuardDuty
+* CloudTrail
+* Security Hub
+* AWS Config
+* CloudWatch
+* EventBridge
+
+---
+
+## 📜 Certifications
+
+* AWS Certified Cloud Practitioner
+* AWS Certified Solutions Architect – Associate *(In Progress)*
+* AWS Certified Security – Specialty *(Planned)*
+
+---
+
+## 🛠️ Technologies
 
 <p align="left">
-  <a href="https://github.com/Mmiguel08?tab=repositories">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Mmiguel08?style=for-the-badge&logo=github&color=1f6feb" />
-  </a>
-  <a href="https://github.com/Mmiguel08?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Mmiguel08?style=for-the-badge&logo=github&color=1f6feb" />
-  </a>
+
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/moisesmiguel08
+* 🌐 Portfolio: https://myportifio.vercel.app
+* 📧 Email: [moisesmiguel0805@gmail.com](mailto:moisesmiguel0805@gmail.com)
+
+---
+
+> **"Building secure, scalable, and automated cloud infrastructures on AWS."**
