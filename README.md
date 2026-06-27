@@ -12,7 +12,6 @@ Currently expanding my expertise in:
 * Terraform
 * Cloud Infrastructure
 * Security Automation
-* DevSecOps
 
 ---
 
