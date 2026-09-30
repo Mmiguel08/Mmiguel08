@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=230&section=header&text=Moises%20Miguel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Cloud%20Security&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
 <!-- Texto a escrever (animado) -->
-<a href="https://github.com/moisesmiguel08">
+<a href="https://github.com/Mmiguel08">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF9900&center=true&vCenter=true&width=720&height=50&lines=Cloud+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Infrastructure+as+Code+with+Terraform;Secure%2C+Scalable+%26+Automated+Cloud+Infrastructure" alt="Typing SVG" />
 </a>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/moisesmiguel08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/Mmiguel08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://myportifio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:moisesmiguel0508@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
