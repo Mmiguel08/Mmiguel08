@@ -148,7 +148,7 @@ My background combines **cloud engineering, infrastructure, networking, and secu
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mmiguel08&theme=react-dark&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/FF9900/Mmiguel08" alt="Contribution calendar" width="90%"/>
 
 <br/>
 
