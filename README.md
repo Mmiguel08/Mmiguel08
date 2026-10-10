@@ -138,7 +138,26 @@ I delivered large-scale **MPLS and transport projects for a major telecom operat
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3>Terraform on AWS: Networking &amp; IaC Fundamentals</h3>
+      <p>A hands-on <b>Terraform</b> repository organized as a learning path, from first deployment to a full network project:</p>
+      <ol>
+        <li>Deploying an S3 bucket</li>
+        <li>Terraform state and drift</li>
+        <li>Remote state</li>
+        <li>Importing existing AWS resources into Terraform</li>
+        <li>Building reusable modules</li>
+        <li>Building a network and deploying AWS Systems Manager (SSM)</li>
+      </ol>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="VPC"/>
+        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
+        <img src="https://img.shields.io/badge/SSM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="SSM"/>
+      </p>
+      <a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code"><b>View repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>AWS VPC, EC2 &amp; Systems Manager</h3>
       <p>Designed and deployed AWS infrastructure with <b>Terraform</b>: VPC networking, EC2 instances, security controls, and Systems Manager.</p>
       <p>
@@ -146,10 +165,11 @@ I delivered large-scale **MPLS and transport projects for a major telecom operat
         <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="VPC"/>
         <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2"/>
       </p>
-      <!-- TODO: replace with the repo link -->
-      <a href="https://github.com/Mmiguel08?tab=repositories"><b>View repository →</b></a>
+      <a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code/tree/main/6.1.Project%20Building%20a%20Network%20and%20Deploying%20AWS%20Systems%20Manager%20SSM"><b>View project →</b></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Cloud-Native Web Application</h3>
       <p>Scalable, secure AWS architecture applying best practices for <b>availability, networking, security, and scalability</b>.</p>
       <p>
@@ -157,9 +177,10 @@ I delivered large-scale **MPLS and transport projects for a major telecom operat
         <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Auto Scaling"/>
         <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS"/>
       </p>
+      <!-- TODO: replace with the repo link -->
       <a href="https://github.com/Mmiguel08?tab=repositories"><b>View repository →</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>AWS IAM &amp; S3 Security</h3>
       <p>Implemented <b>IAM roles</b>, least-privilege permissions, permissions boundaries, and secure S3 access policies.</p>
       <p>
