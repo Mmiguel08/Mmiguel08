@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:232F3E,100:FF9900&height=240&section=header&text=Moises%20Miguel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Network%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform&descAlignY=62&descSize=22" alt="Moises Miguel - Cloud Network Engineer" width="100%"/>
+<img src="assets/hero-top.svg" width="720" alt="Moises Miguel - Cloud Network Engineer"/><br/>
+<img src="moises-matrix-portrait.gif" width="720" alt="Moises portrait with animated Matrix code"/><br/>
+<img src="assets/hero-bottom.svg" width="720" alt="System online - AWS SAA-C03, JNCIA-Junos, Terraform, B.Tech Cybersecurity"/>
+
+<br/><br/>
 
 <a href="https://github.com/Mmiguel08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=FF9900&center=true&vCenter=true&width=760&height=45&duration=3200&lines=Cloud+Network+Engineer;AWS+VPC+%26+Hybrid+Connectivity;Infrastructure+as+Code+with+Terraform;MPLS+%C2%B7+BGP+%C2%B7+Network+Security" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=00FF9C&center=true&vCenter=true&width=760&height=40&duration=3200&lines=Cloud+Network+Engineer;AWS+VPC+%26+Hybrid+Connectivity;Infrastructure+as+Code+with+Terraform;MPLS+%C2%B7+BGP+%C2%B7+Network+Security" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -32,6 +36,23 @@
 <a href="mailto:moisesmiguel0508@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
+
+<br/>
+
+```bash
+moises@cloud:~$ whoami
+Cloud Network Engineer | AWS Certified | JNCIA-Junos | B.Tech Cybersecurity (in progress)
+
+moises@cloud:~$ cat stack.txt
+cloud     -> AWS (VPC, EC2, S3, RDS, ALB, IAM, KMS, GuardDuty, Security Hub)
+iac       -> Terraform (modules, remote state, import)
+network   -> MPLS (VPLS/VPWS/VPRN), BGP, OSPF, Cisco, Juniper, FortiGate, Nokia
+security  -> Least privilege, encryption, layered network controls
+automate  -> Python, Bash, Git
+
+moises@cloud:~$ status
+[OK] Open to Cloud Network / Cloud Security / DevOps roles
+```
 
 <br/>
 
@@ -199,16 +220,16 @@ I delivered large-scale **MPLS and transport projects for a major telecom operat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mmiguel08&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mmiguel08&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=FF9900&currStreakLabel=00FF9C" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/FF9900/Mmiguel08" alt="Contribution calendar" width="90%"/>
+<img src="https://ghchart.rshah.org/00FF9C/Mmiguel08" alt="Contribution calendar" width="90%"/>
 
 </div>
 
@@ -226,6 +247,6 @@ I delivered large-scale **MPLS and transport projects for a major telecom operat
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=15&pause=2000&color=8B949E&center=true&vCenter=true&width=620&lines=%22Building+secure%2C+scalable%2C+and+reliable+cloud+infrastructure.%22" alt="Quote"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:232F3E,100:0D1117&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0B1A22,100:0D1117&height=110&section=footer" width="100%" alt=""/>
 
 </div>
