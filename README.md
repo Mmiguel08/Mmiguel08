@@ -1,22 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:232F3E,100:FF9900&height=240&section=header&text=Moises%20Miguel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer&descAlignY=62&descSize=22" alt="Moises Miguel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:232F3E,100:FF9900&height=240&section=header&text=Moises%20Miguel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Network%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform&descAlignY=62&descSize=22" alt="Moises Miguel - Cloud Network Engineer" width="100%"/>
 
 <a href="https://github.com/Mmiguel08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=FF9900&center=true&vCenter=true&width=760&height=45&duration=3200&lines=AWS+Cloud+Engineering;Infrastructure+as+Code+with+Terraform;Cloud+Security+%26+Networking;Secure%2C+Scalable+%26+Automated+Infrastructure" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=FF9900&center=true&vCenter=true&width=760&height=45&duration=3200&lines=Cloud+Network+Engineer;AWS+VPC+%26+Hybrid+Connectivity;Infrastructure+as+Code+with+Terraform;MPLS+%C2%B7+BGP+%C2%B7+Network+Security" alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate"/>
+<a href="https://www.credly.com/badges/05b20741-276e-448b-893b-18543a822216/public_url">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/bd6e5b4a-aec5-4ed1-ab29-d85843d81ec8">
+  <img src="https://img.shields.io/badge/Juniper-JNCIA--Junos-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="JNCIA-Junos"/>
+</a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white" alt="Juniper"/>
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 <br/><br/>
 
@@ -30,9 +37,9 @@
 
 ## About
 
-Cloud Engineer focused on designing, deploying, and securing scalable infrastructure on **AWS**.
+Cloud Network Engineer with **3+ years** of experience in enterprise and service provider networking, network security, and infrastructure. I combine deep on-premises expertise (**Cisco, Juniper, FortiGate**) with hands-on **AWS networking**: VPC design, hybrid connectivity, and secure multi-VPC architectures, all built as code with **Terraform**.
 
-My background combines **cloud engineering, infrastructure, networking, and security**, with hands-on experience building AWS environments using **Terraform** and Infrastructure as Code. I care about infrastructure that is **secure, highly available, scalable, and automated** from the first commit.
+I delivered large-scale **MPLS and transport projects for a major telecom operator in Angola**, and I'm currently pursuing a **B.Tech in Cybersecurity**.
 
 <br/>
 
@@ -40,41 +47,68 @@ My background combines **cloud engineering, infrastructure, networking, and secu
 
 <table>
   <tr>
-    <td width="20%" align="center"><b>Cloud Engineering</b><br/><sub>AWS architecture and deployment</sub></td>
+    <td width="20%" align="center"><b>AWS Networking</b><br/><sub>VPC design, hybrid connectivity, multi-VPC</sub></td>
     <td width="20%" align="center"><b>Infrastructure as Code</b><br/><sub>Terraform, modules, remote state</sub></td>
     <td width="20%" align="center"><b>Cloud Security</b><br/><sub>IAM, KMS, GuardDuty, Security Hub</sub></td>
-    <td width="20%" align="center"><b>AWS Networking</b><br/><sub>VPC design, routing, VPN</sub></td>
+    <td width="20%" align="center"><b>Carrier &amp; Enterprise Networking</b><br/><sub>MPLS, BGP, OSPF, VPN</sub></td>
     <td width="20%" align="center"><b>Linux &amp; Automation</b><br/><sub>Bash, Python, administration</sub></td>
   </tr>
 </table>
 
 <br/>
 
-## Engineering Principles
+## Experience
 
-| Principle | In practice |
-|---|---|
-| **Security by design** | Least-privilege IAM, permissions boundaries, encryption with KMS, layered network controls |
-| **Infrastructure as Code** | Reproducible, version-controlled environments built with Terraform |
-| **High availability** | Multi-tier architectures with load balancing and Auto Scaling |
-| **Observability** | CloudWatch, CloudTrail, VPC Flow Logs, and EventBridge for visibility and auditing |
-| **Automation** | Repeatable workflows with Terraform, Bash, and Python |
+**Network Instructor** · Ashelga NC (Freelance) · *Oct 2024 – Present* · Remote, Canada
+- Mentor network engineers preparing for roles across the globe (Angola, Canada, Russia, UK)
+- Teach network security and cloud security fundamentals
+
+**Transport Technician** · Africell Angola · *Mar 2024 – Aug 2024* · Luanda, Angola
+- Worked across optical transmission, radio communication, and IP for a mobile operator
+- Took part in **MPLS projects (VPLS, VPWS, VPRN)** on Nokia equipment
+- Configured **Juniper EX2300 / EX4400** switches and Cisco equipment
+- Ran lab validation for **BGP** and **SIP-Trunk** voice solutions before network rollout
+
+**Network Analyst** · iPworld.co.ao · *Mar 2022 – Feb 2024* · Luanda, Angola
+- Analyzed radio access networks and planned radio transmission implementations
+- Configured Cisco and Mikrotik routers, and radio devices (Cambium Networks, Ubiquiti, WiltelCOM)
 
 <br/>
 
-## Certification
+## Certifications
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="56" alt="AWS"/>
-    </td>
-    <td>
-      <b>AWS Certified Solutions Architect – Associate</b> (SAA-C03)<br/>
-      <sub>Amazon Web Services · 2026</sub>
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS"/></td>
+    <td><b>AWS Certified Solutions Architect – Associate</b><br/><sub>Amazon Web Services · Aug 2026 – Aug 2029 · <a href="https://www.credly.com/badges/05b20741-276e-448b-893b-18543a822216/public_url">Verify</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-JNCIA-84B135?style=flat-square" alt="Juniper"/></td>
+    <td><b>Juniper Networks Certified Associate – Junos (JNCIA-Junos)</b><br/><sub>Juniper Networks · Sep 2026 – Sep 2029 · <a href="https://www.credly.com/earner/earned/badge/bd6e5b4a-aec5-4ed1-ab29-d85843d81ec8">Verify</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square" alt="Terraform"/></td>
+    <td><b>Terraform on AWS: From Zero to Cloud Infrastructure</b><br/><sub>Cybr · Jun 2026</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-AWS%20Security-FF9900?style=flat-square" alt="AWS Security"/></td>
+    <td><b>Introduction to AWS Security</b><br/><sub>Cybr · Jan 2026</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Ethical%20Hacker-black?style=flat-square" alt="Ethical Hacker"/></td>
+    <td><b>Cyber Security – Ethical Hacker</b><br/><sub>EICTA Kanpur · Jul 2025 · <a href="https://verify.eicta.digitalcredentials.in/beab4ff9-547a-4d98-a915-959233801d70">Verify</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-FCOC-555?style=flat-square" alt="FCOC"/></td>
+    <td><b>BGP Avançado · Telecom IP 1 · Telecom IP 2 – MPLS</b><br/><sub>FCOC · Jun – Jul 2022</sub></td>
   </tr>
 </table>
+
+<br/>
+
+## Education
+
+**National Forensic Sciences University (NFSU)**: B.Tech and M.Tech in Computer Science & Engineering, Cybersecurity specialization · *Jul 2024 – Aug 2028 (expected)*
 
 <br/>
 
@@ -88,13 +122,14 @@ My background combines **cloud engineering, infrastructure, networking, and secu
 
 | Domain | Technologies |
 |---|---|
-| **Cloud Engineering** | AWS, EC2, VPC, S3, RDS, ALB, Auto Scaling, Route 53, CloudFront, Systems Manager |
-| **Cloud Security** | IAM, Security Groups, NACLs, CloudTrail, AWS Config, KMS, S3 Security, GuardDuty, Security Hub |
+| **AWS Networking** | VPC Design, Routing, Hybrid Connectivity, VPN, Multi-VPC Architectures, Route 53, CloudFront |
+| **Cloud Engineering** | EC2, S3, RDS, ALB, Auto Scaling, Systems Manager |
+| **Cloud Security** | IAM, Security Groups, NACLs, KMS, CloudTrail, AWS Config, GuardDuty, Security Hub |
 | **Infrastructure as Code** | Terraform, AWS Provider, Modules, Remote State |
-| **Networking** | VPC Design, Routing, VPN, BGP, MPLS, Network Security |
-| **Linux** | Ubuntu, Bash, SSH, User & Group Management, Permissions, System Administration |
+| **Carrier & Enterprise Networking** | MPLS (VPLS, VPWS, VPRN), BGP, OSPF, Policy Based Routing, VPN, Traffic Engineering |
+| **Network Vendors** | Cisco, Juniper (Junos), FortiGate, Nokia, Mikrotik |
+| **Linux & Automation** | Ubuntu, Bash, Python, SSH, Permissions, System Administration |
 | **Monitoring** | CloudWatch, EventBridge, VPC Flow Logs |
-| **Automation** | Python, Bash, Terraform |
 | **Version Control** | Git, GitHub |
 
 <br/>
@@ -105,21 +140,24 @@ My background combines **cloud engineering, infrastructure, networking, and secu
   <tr>
     <td width="33%" valign="top">
       <h3>AWS VPC, EC2 &amp; Systems Manager</h3>
-      <p>Designed and deployed AWS infrastructure with <b>Terraform</b>, covering VPC networking, EC2 instances, security controls, and Systems Manager.</p>
+      <p>Designed and deployed AWS infrastructure with <b>Terraform</b>: VPC networking, EC2 instances, security controls, and Systems Manager.</p>
       <p>
         <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
         <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="VPC"/>
         <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2"/>
       </p>
+      <!-- TODO: replace with the repo link -->
+      <a href="https://github.com/Mmiguel08?tab=repositories"><b>View repository →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>Cloud-Native Web Application</h3>
-      <p>Designed a scalable, secure AWS architecture applying best practices for <b>availability, networking, security, and scalability</b>.</p>
+      <p>Scalable, secure AWS architecture applying best practices for <b>availability, networking, security, and scalability</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="ALB"/>
         <img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Auto Scaling"/>
         <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS"/>
       </p>
+      <a href="https://github.com/Mmiguel08?tab=repositories"><b>View repository →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>AWS IAM &amp; S3 Security</h3>
@@ -129,6 +167,7 @@ My background combines **cloud engineering, infrastructure, networking, and secu
         <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
         <img src="https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="KMS"/>
       </p>
+      <a href="https://github.com/Mmiguel08?tab=repositories"><b>View repository →</b></a>
     </td>
   </tr>
 </table>
@@ -149,14 +188,6 @@ My background combines **cloud engineering, infrastructure, networking, and secu
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/FF9900/Mmiguel08" alt="Contribution calendar" width="90%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mmiguel08/Mmiguel08/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mmiguel08/Mmiguel08/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mmiguel08/Mmiguel08/output/github-snake.svg"/>
-</picture>
 
 </div>
 
