@@ -23,71 +23,34 @@
   </tr>
 </table>
 
-## Skills
-
-| Domain | Technologies |
-|---|---|
-| **AWS & Cloud** | VPC, EC2, S3, RDS, ALB, Auto Scaling, Route 53, CloudFront, Systems Manager |
-| **Cloud Security** | IAM, KMS, Security Groups, NACLs, CloudTrail, Config, GuardDuty, Security Hub |
-| **IaC & Automation** | Terraform (modules, remote state, import), Python, Bash, Git |
-| **Networking** | MPLS (VPLS, VPWS, VPRN), BGP, OSPF, VPN, Traffic Engineering |
-| **Vendors & OS** | Cisco, Juniper (Junos), FortiGate, Nokia, Mikrotik, Linux (Ubuntu) |
-
-## Experience
-
-| Role | Highlights |
-|---|---|
-| **Network Instructor**<br/><sub>Ashelga NC · Oct 2024 – Present</sub> | Mentor network engineers for roles in Angola, Canada, Russia, and the UK |
-| **Transport Technician**<br/><sub>Africell Angola · Mar – Aug 2024</sub> | MPLS (VPLS/VPWS/VPRN) on Nokia, Juniper EX2300/EX4400 configuration, BGP and SIP-Trunk lab validation |
-| **Network Analyst**<br/><sub>iPworld · Mar 2022 – Feb 2024</sub> | Radio access analysis and transmission projects; Cisco, Mikrotik, Cambium, and Ubiquiti configuration |
-
-## Certifications & Education
-
-| Credential | Issuer | Year |
-|---|---|---|
-| AWS Certified Solutions Architect – Associate ([verify](https://www.credly.com/badges/05b20741-276e-448b-893b-18543a822216/public_url)) | AWS | 2026 |
-| JNCIA-Junos ([verify](https://www.credly.com/earner/earned/badge/bd6e5b4a-aec5-4ed1-ab29-d85843d81ec8)) | Juniper | 2026 |
-| Terraform on AWS · Introduction to AWS Security | Cybr | 2026 |
-| Cyber Security – Ethical Hacker ([verify](https://verify.eicta.digitalcredentials.in/beab4ff9-547a-4d98-a915-959233801d70)) | EICTA Kanpur | 2025 |
-| BGP Avançado · Telecom IP 1 · Telecom IP 2 – MPLS | FCOC | 2022 |
-| **B.Tech & M.Tech, CS & Engineering (Cybersecurity)** | NFSU | 2024 – 2028 |
-
-## Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Terraform on AWS: IaC Fundamentals</b><br/>
-      <sub>S3, state and drift, remote state, import, reusable modules, and a full network + SSM project.</sub><br/>
-      <a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>AWS VPC, EC2 &amp; Systems Manager</b><br/>
-      <sub>Network and EC2 deployed with Terraform, accessed through Systems Manager.</sub><br/>
-      <a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code/tree/main/6.1.Project%20Building%20a%20Network%20and%20Deploying%20AWS%20Systems%20Manager%20SSM">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Cloud-Native Web Application</b><br/>
-      <sub>Highly available, secure architecture with ALB, Auto Scaling, and RDS.</sub><br/>
-      <!-- TODO: replace with the repo link -->
-      <a href="https://github.com/Mmiguel08?tab=repositories">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>AWS IAM &amp; S3 Security</b><br/>
-      <sub>IAM roles, least privilege, permissions boundaries, and secure S3 policies.</sub><br/>
-      <a href="https://github.com/Mmiguel08?tab=repositories">View repository →</a>
-    </td>
-  </tr>
-</table>
-
-## GitHub
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top languages"/>
+<img src="skills.svg" width="720" alt="Skills"/>
+<img src="experience.svg" width="720" alt="Experience"/>
+<img src="certs.svg" width="720" alt="Certifications and Education"/>
+
+<sub>Verify credentials:
+<a href="https://www.credly.com/badges/05b20741-276e-448b-893b-18543a822216/public_url">AWS</a> ·
+<a href="https://www.credly.com/earner/earned/badge/bd6e5b4a-aec5-4ed1-ab29-d85843d81ec8">Juniper</a> ·
+<a href="https://verify.eicta.digitalcredentials.in/beab4ff9-547a-4d98-a915-959233801d70">EICTA</a></sub>
+
+<br/><br/>
+
+<img src="header-projects.svg" width="720" alt="Projects"/>
+
+<a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code"><img src="project-terraform.svg" width="355" alt="Terraform on AWS: IaC Fundamentals"/></a>
+<a href="https://github.com/Mmiguel08/Networking-aws-Terraform-code/tree/main/6.1.Project%20Building%20a%20Network%20and%20Deploying%20AWS%20Systems%20Manager%20SSM"><img src="project-vpc-ssm.svg" width="355" alt="AWS VPC, EC2 and Systems Manager"/></a>
+<br/>
+<!-- TODO: replace the two links below with the real repositories -->
+<a href="https://github.com/Mmiguel08?tab=repositories"><img src="project-webapp.svg" width="355" alt="Cloud-Native Web Application"/></a>
+<a href="https://github.com/Mmiguel08?tab=repositories"><img src="project-iam-s3.svg" width="355" alt="AWS IAM and S3 Security"/></a>
+
+<br/><br/>
+
+<img src="header-github.svg" width="720" alt="GitHub"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Mmiguel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B10&title_color=00FF9C&icon_color=00FF9C" alt="GitHub stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmiguel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B10&title_color=00FF9C" alt="Top languages"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0B1A22,100:0D1117&height=90&section=footer" width="100%" alt=""/>
 
