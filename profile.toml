@@ -1,0 +1,102 @@
+# Single source of truth for the static content of the profile README.
+# Live data (projects, languages, activity) comes from GitHub; see src/profile_readme.
+
+[github]
+user = "Mmiguel08"
+max_projects = 4
+exclude = ["Mmiguel08"]          # the profile repository itself
+
+[projects.descriptions]          # used when a repo has no description on GitHub
+"Networking-aws-Terraform-code" = "Terraform on AWS: S3, state and drift, remote state, import, reusable modules, and a network + Systems Manager project."
+"Linux_projects" = "Linux administration projects."
+
+[[skills]]
+domain = "AWS & Cloud"
+items = ["VPC", "EC2", "S3", "RDS", "ALB", "Auto Scaling", "Route 53", "CloudFront", "Systems Manager"]
+
+[[skills]]
+domain = "Cloud Security"
+items = ["IAM", "KMS", "Security Groups", "NACLs", "CloudTrail", "Config", "GuardDuty", "Security Hub"]
+
+[[skills]]
+domain = "IaC & Automation"
+items = ["Terraform", "Python", "Bash", "Git", "GitHub"]
+
+[[skills]]
+domain = "Networking"
+items = ["MPLS (VPLS, VPWS, VPRN)", "BGP", "OSPF", "VPN", "Traffic Engineering"]
+
+[[skills]]
+domain = "Platforms"
+items = ["Cisco", "Juniper Junos", "FortiGate", "Nokia", "Mikrotik", "Linux"]
+
+[[experience]]
+title = "Network Instructor"
+company = "Ashelga NC (Freelance)"
+location = "Remote, Canada"
+period = "Oct 2024 – Present"
+highlights = [
+  "Mentor network engineers toward roles in Angola, Canada, Russia, and the UK.",
+  "Teach network security and cloud security fundamentals.",
+]
+
+[[experience]]
+title = "Transport Technician"
+company = "Africell Angola"
+location = "Luanda"
+period = "Mar 2024 – Aug 2024"
+highlights = [
+  "Worked across optical transmission, radio communication, and IP for a mobile operator.",
+  "Took part in MPLS projects (VPLS, VPWS, VPRN) on Nokia equipment.",
+  "Configured Juniper EX2300 / EX4400 switches and Cisco equipment.",
+  "Ran lab validation of BGP and SIP-Trunk voice solutions before network rollout.",
+]
+
+[[experience]]
+title = "Network Analyst"
+company = "iPworld"
+location = "Luanda"
+period = "Mar 2022 – Feb 2024"
+highlights = [
+  "Analyzed radio access networks and implemented radio transmission projects.",
+  "Configured Cisco and Mikrotik routers and radio devices (Cambium, Ubiquiti, WiltelCOM).",
+]
+
+[[credentials]]
+name = "AWS Certified Solutions Architect – Associate"
+issuer = "Amazon Web Services"
+year = 2026
+url = "https://www.credly.com/badges/05b20741-276e-448b-893b-18543a822216/public_url"
+
+[[credentials]]
+name = "Juniper Networks Certified Associate – Junos (JNCIA-Junos)"
+issuer = "Juniper Networks"
+year = 2026
+url = "https://www.credly.com/earner/earned/badge/bd6e5b4a-aec5-4ed1-ab29-d85843d81ec8"
+
+[[credentials]]
+name = "Terraform on AWS: From Zero to Cloud Infrastructure"
+issuer = "Cybr"
+year = 2026
+
+[[credentials]]
+name = "Introduction to AWS Security"
+issuer = "Cybr"
+year = 2026
+
+[[credentials]]
+name = "Cyber Security – Ethical Hacker"
+issuer = "EICTA Kanpur"
+year = 2025
+url = "https://verify.eicta.digitalcredentials.in/beab4ff9-547a-4d98-a915-959233801d70"
+
+[[credentials]]
+name = "BGP Avançado · Telecom IP 1 · Telecom IP 2 (MPLS)"
+issuer = "FCOC"
+year = 2022
+
+[education]
+degree = "B.Tech & M.Tech, Computer Science & Engineering (Cybersecurity)"
+institution = "National Forensic Sciences University (NFSU)"
+period = "2024 – 2028"
+status = "in progress"

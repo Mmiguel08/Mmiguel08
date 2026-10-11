@@ -1,0 +1,20 @@
+[project]
+name = "profile-readme"
+version = "1.0.0"
+description = "Generates the data-driven sections of a GitHub profile README"
+requires-python = ">=3.11"
+dependencies = []          # standard library only
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "C4", "RUF"]
+ignore = ["RUF001", "RUF002", "RUF003"]   # typographic dashes are intentional in content
+
+[tool.mypy]
+strict = true
+python_version = "3.11"
+mypy_path = "src"
