@@ -74,17 +74,18 @@
 ## Projects
 
 <!-- BEGIN:projects -->
-| Project | Description | Language | Stars | Updated |
+| Project | Description | Languages | Stars | Updated |
 |---|---|---|---:|---|
-| [**Linux_projects**](https://github.com/Mmiguel08/Linux_projects) | Linux administration projects. | — | 0 | Oct 10, 2026 |
-| [**Networking-aws-Terraform-code**](https://github.com/Mmiguel08/Networking-aws-Terraform-code) | Terraform on AWS: S3, state and drift, remote state, import, reusable modules, and a network + Systems Manager project. | `HCL (Terraform)` | 0 | Oct 10, 2026 |
+| [**Linux_projects**](https://github.com/Mmiguel08/Linux_projects) | Linux administration projects. | `Shell (Bash)` 100% | 0 | Oct 10, 2026 |
+| [**Networking-aws-Terraform-code**](https://github.com/Mmiguel08/Networking-aws-Terraform-code) | Terraform on AWS: S3, state and drift, remote state, import, reusable modules, and a network + Systems Manager project. | `HCL (Terraform)` 100% | 0 | Oct 10, 2026 |
 <!-- END:projects -->
 
 ## Languages
 
 <!-- BEGIN:languages -->
 ```text
-HCL (Terraform)  ████████████████████████  100.0%       5.1 KB
+HCL (Terraform)  ████████████████░░░░░░░░   67.2%       5.1 KB
+Shell (Bash)     ████████░░░░░░░░░░░░░░░░   32.8%       2.5 KB
 ```
 
 *By bytes of code across 2 public repositories; forks excluded.*
@@ -95,12 +96,12 @@ HCL (Terraform)  █████████████████████
 <!-- BEGIN:activity -->
 | Contributions (12 mo) | Public commits | Current streak | Longest streak |
 |---:|---:|---:|---:|
-| **41** | **43** | 2 days | 2 days |
+| **43** | **45** | 2 days | 2 days |
 
 ```text
        Nov  Dec Jan Feb Mar  Apr May  Jun Jul Aug  Sep
     ·····································▒··············█
-Mon ·················································▓··
+Mon ·················································▒··
     ··············░·····································
 Wed ··············█·····································
     ··················································░·
@@ -109,11 +110,11 @@ Fri ····································▒�
     Less · ░ ▒ ▓ █ More
 
 Month  Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct
-Total    0   0  16   0   0   0   0   9   0   1   5  10
-Trend    ·   ·   █   ·   ·   ·   ·   ▅   ·   ▁   ▃   ▅
+Total    0   0  16   0   0   0   0   9   0   1   5  12
+Trend    ·   ·   █   ·   ·   ·   ·   ▅   ·   ▁   ▃   ▆
 ```
 <!-- END:activity -->
 
 ---
 
-<sub>Sections from **Skills** down are generated from [`profile.toml`](profile.toml) and live GitHub data by [`src/profile_readme`](src/profile_readme), refreshed daily by GitHub Actions.</sub>
+<sub>Sections from **Skills** down are generated from [`profile.toml`](profile.toml) and live GitHub data by [`src/profile_readme`](src/profile_readme), refreshed every few hours by GitHub Actions.</sub>
