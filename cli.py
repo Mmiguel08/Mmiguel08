@@ -32,12 +32,11 @@ def live_blocks(profile: Profile, gh: GitHub, today: dt.date) -> tuple[dict[str,
     failures: list[str] = []
 
     try:
-        repos = gh.repos()
+        repos = [r for r in gh.repos() if r.name not in profile.settings.exclude]
+        sizes = {r.name: gh.languages(r) for r in repos}  # one request per repo, reused below
         selected = projects.select_projects(repos, profile.settings)
-        blocks["projects"] = render.projects(selected, profile.settings.descriptions)
-        per_repo = [gh.languages(r) for r in repos if r.name not in profile.settings.exclude]
-        stats = languages.aggregate(per_repo)
-        blocks["languages"] = render.languages(stats, len(per_repo))
+        blocks["projects"] = render.projects(selected, profile.settings.descriptions, sizes)
+        blocks["languages"] = render.languages(languages.aggregate(sizes.values()), len(repos))
     except GitHubError as exc:
         failures.append(f"projects/languages: {exc}")
 

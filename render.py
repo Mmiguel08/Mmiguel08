@@ -68,15 +68,37 @@ def credentials(items: Sequence[Credential], education: Education) -> str:
     return "\n".join(rows) + "\n\n" + edu
 
 
-def projects(repos: Sequence[Repo], descriptions: Mapping[str, str]) -> str:
+def language_mix(sizes: Mapping[str, int], fallback: str | None = None, top: int = 3) -> str:
+    """e.g. `HCL (Terraform)` 87% · `Shell` 13%. Falls back to GitHub's primary language."""
+    total = sum(sizes.values())
+    if total == 0:
+        return f"`{LANGUAGE_LABELS.get(fallback, fallback)}`" if fallback else "—"
+    ranked = sorted(sizes.items(), key=lambda kv: kv[1], reverse=True)
+
+    def pct(size: int) -> str:
+        share = size / total * 100
+        return "<1%" if share < 1 else f"{share:.0f}%"
+
+    parts = [f"`{LANGUAGE_LABELS.get(name, name)}` {pct(size)}" for name, size in ranked[:top]]
+    if len(ranked) > top:
+        parts.append(f"+{len(ranked) - top}")
+    return " · ".join(parts)
+
+
+def projects(
+    repos: Sequence[Repo],
+    descriptions: Mapping[str, str],
+    languages: Mapping[str, Mapping[str, int]] | None = None,
+) -> str:
     if not repos:
         return "*No public repositories yet.*"
-    rows = ["| Project | Description | Language | Stars | Updated |", "|---|---|---|---:|---|"]
+    languages = languages or {}
+    rows = ["| Project | Description | Languages | Stars | Updated |", "|---|---|---|---:|---|"]
     for r in repos:
         desc = descriptions.get(r.name) or r.description or "—"
-        lang = f"`{LANGUAGE_LABELS.get(r.language, r.language)}`" if r.language else "—"
+        mix = language_mix(languages.get(r.name, {}), r.language)
         rows.append(
-            f"| [**{_cell(r.name)}**]({r.url}) | {_cell(desc)} | {lang} | {r.stars} "
+            f"| [**{_cell(r.name)}**]({r.url}) | {_cell(desc)} | {mix} | {r.stars} "
             f"| {_fmt_date(r.pushed_at.date())} |"
         )
     return "\n".join(rows)

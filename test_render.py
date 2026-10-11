@@ -50,6 +50,23 @@ class RenderTests(unittest.TestCase):
         self.assertNotIn("from gh", out)
         self.assertIn("Oct 10, 2026", out)
 
+    def test_projects_show_every_language_with_share(self) -> None:
+        out = render.projects([repo(name="a")], {}, {"a": {"HCL": 750, "Shell": 250}})
+        self.assertIn("`HCL (Terraform)` 75% · `Shell (Bash)` 25%", out)
+
+    def test_projects_fall_back_to_primary_language_without_sizes(self) -> None:
+        self.assertIn("`HCL (Terraform)`", render.projects([repo(name="a")], {}, {}))
+
+    def test_projects_without_any_language(self) -> None:
+        out = render.projects([repo(name="a", language=None)], {}, {"a": {}})
+        self.assertIn("| — |", out)
+
+    def test_language_mix_edge_cases(self) -> None:
+        self.assertEqual(render.language_mix({"Shell": 100}), "`Shell (Bash)` 100%")
+        self.assertIn("`Go` <1%", render.language_mix({"Python": 10_000, "Go": 5}))
+        many = {"A": 50, "B": 40, "C": 30, "D": 20, "E": 10}
+        self.assertTrue(render.language_mix(many).endswith("+2"))  # top 3 shown, rest summarized
+
     def test_projects_empty_state(self) -> None:
         self.assertIn("No public repositories", render.projects([], {}))
 

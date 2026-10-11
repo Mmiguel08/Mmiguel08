@@ -1,4 +1,5 @@
 import datetime as dt
+import json
 import logging
 import tempfile
 import unittest
@@ -91,6 +92,23 @@ class CliTests(unittest.TestCase):
         self.assertIn("[**beta**](https://github.com/u/beta)", text)
         self.assertIn("Python", text)
         self.assertIn("| **18** | **43** |", text)
+
+    def test_project_row_lists_all_languages(self) -> None:
+        self.run_cli(default_routes())
+        text = self.readme.read_text(encoding="utf-8")
+        self.assertIn("`HCL (Terraform)` 75% · `Shell (Bash)` 25%", text)  # alpha
+        self.assertIn("`Python` 100%", text)  # beta
+
+    def alpha_row(self) -> str:
+        lines = self.readme.read_text(encoding="utf-8").splitlines()
+        return next(line for line in lines if "[**alpha**]" in line)
+
+    def test_language_added_later_appears_on_next_run(self) -> None:
+        before = {**default_routes(), "/r/alpha/languages": json.dumps({"HCL": 3000})}
+        self.run_cli(before)
+        self.assertNotIn("Shell", self.alpha_row())
+        self.run_cli(default_routes())  # a Shell script was added to the project
+        self.assertIn("`Shell (Bash)` 25%", self.alpha_row())
 
     def test_second_run_is_a_no_op_and_check_passes(self) -> None:
         self.run_cli(default_routes())

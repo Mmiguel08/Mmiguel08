@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "17 3 * * *"      # daily
+    - cron: "17 */3 * * *"    # every 3 hours
   workflow_dispatch:           # manual run from the Actions tab
   push:
     paths: ["profile.toml", "src/**"]
