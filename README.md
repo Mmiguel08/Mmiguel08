@@ -90,7 +90,8 @@ Shell (Bash)     ████████░░░░░░░░░░░░░
 
 *By bytes of code across 2 public repositories; forks excluded.*
 <!-- END:languages -->
-
+## Certificates
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/79c906cc-098f-4287-a696-883739da8447.jpeg?v=1792422648)](https://www.boot.dev/certificates/79c906cc-098f-4287-a696-883739da8447)
 ## Activity
 
 <!-- BEGIN:activity -->
